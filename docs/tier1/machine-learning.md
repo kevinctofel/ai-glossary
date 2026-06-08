@@ -41,4 +41,4 @@ Machine learning powers most of the AI features people interact with daily: reco
 - [What is AI?](what-is-ai.md) — the broader field
 - [Deep Learning](deep-learning.md) — a powerful type of machine learning using neural networks
 - [Parameters](parameters.md) — what the system "learns" during training
-- [RLHF](tier2/rlhf.md) — how AI gets trained to be helpful and safe
+- [RLHF](../tier2/rlhf.md) — how AI gets trained to be helpful and safe

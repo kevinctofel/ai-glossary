@@ -49,5 +49,5 @@ Larger models (more parameters) typically cost more per token because they requi
 
 ## Related Terms
 - [Training](inference-vs-training.md) — where parameters get set during training
-- [Quantization](tier2/quantization.md) — reducing parameter precision to save memory
+- [Quantization](../tier2/quantization.md) — reducing parameter precision to save memory
 - [Tokens & Tokenization](tokens-tokenization.md) — what the model processes using its parameters

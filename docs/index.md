@@ -26,21 +26,40 @@ Essential concepts everyone should know:
 - [Parameters](tier1/parameters.md)
 - [Temperature & Sampling](tier1/temperature-sampling.md)
 
-### 🚧 Tier 2 — Model Architecture (Coming Soon)
+### ✅ Tier 2 — Model Architecture (Complete)
 How AI models are built and work under the hood:
-- LLMs, Transformers, Fine-tuning, RLHF, RAG, Quantization, Agents
+- [LLM (Large Language Model)](tier2/llm.md)
+- [Transformer](tier2/transformer.md)
+- [Fine-tuning](tier2/fine-tuning.md)
+- [RLHF](tier2/rlhf.md)
+- [RAG](tier2/rag.md)
+- [Quantization](tier2/quantization.md)
+- [AI Agents](tier2/agents.md)
 
-### 🚧 Tier 3 — Applications & Use Cases (Coming Soon)
+### ✅ Tier 3 — Applications & Use Cases (Complete)
 What AI can actually do:
-- Chatbots, Code Generation, Image/Video Generation, Voice Synthesis, Embeddings
+- [Chatbots](tier3/chatbots.md)
+- [Code Generation](tier3/code-generation.md)
+- [Image & Video Generation](tier3/image-video-generation.md)
+- [Voice Synthesis](tier3/voice-synthesis.md)
+- [Embeddings](tier3/embeddings.md)
 
-### 🚧 Tier 4 — Ethics, Safety & Regulation (Coming Soon)
+### ✅ Tier 4 — Ethics, Safety & Regulation (Complete)
 The important questions:
-- Hallucination, Alignment, Bias, Privacy, Copyright, Open Source vs. Proprietary
+- [Hallucination](tier4/hallucination.md)
+- [Alignment](tier4/alignment.md)
+- [Bias](tier4/bias.md)
+- [Privacy](tier4/privacy.md)
+- [Copyright](tier4/copyright.md)
+- [Open Source vs. Proprietary](tier4/open-source-vs-proprietary.md)
 
-### 🚧 Tier 5 — Industry & Business (Coming Soon)
+### ✅ Tier 5 — Industry & Business (Complete)
 The business side of AI:
-- APIs, Compute, Inference Cost, Model Cards, Benchmarks
+- [APIs](tier5/apis.md)
+- [Compute](tier5/compute.md)
+- [Inference Cost](tier5/inference-cost.md)
+- [Model Cards](tier5/model-cards.md)
+- [Benchmarks](tier5/benchmarks.md)
 
 ## Contributing
 

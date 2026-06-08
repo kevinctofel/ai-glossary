@@ -57,5 +57,5 @@ When a company releases a "new version" of their AI, they usually did more train
 
 ## Related Terms
 - [Parameters](parameters.md) — what gets adjusted during training
-- [Fine-Tuning](tier2/fine-tuning.md) — a cheaper form of re-training on specific data
+- [Fine-Tuning](../tier2/fine-tuning.md) — a cheaper form of re-training on specific data
 - [Context Window](context-window.md) — matters during inference (how much you can send at once)

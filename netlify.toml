@@ -1,0 +1,9 @@
+[build]
+  command = "pip install mkdocs-material && mkdocs build"
+  publish = "site"
+
+[[redirects]]
+  from = "/tier2/*"
+  to = "/"
+  status = 404
+  force = true

@@ -28,4 +28,4 @@ AI went mainstream around 2022 when large language models (like the one powering
 ## Related Terms
 - [Machine Learning](machine-learning.md) — how AI learns from data
 - [Deep Learning](deep-learning.md) — the neural network approach
-- [LLM (Large Language Model)](tier2/llm.md) — a specific type of AI for text
+- [LLM (Large Language Model)](../tier2/llm.md) — a specific type of AI for text

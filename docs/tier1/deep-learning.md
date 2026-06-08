@@ -50,4 +50,4 @@ Deep learning is powerful but expensive:
 ## Related Terms
 - [Machine Learning](machine-learning.md) — the broader category deep learning belongs to
 - [Parameters](parameters.md) — the settings deep learning models learn during training
-- [LLM (Large Language Model)](tier2/llm.md) — a deep learning model specifically for language
+- [LLM (Large Language Model)](../tier2/llm.md) — a deep learning model specifically for language
