@@ -1,5 +1,5 @@
 [build]
-  command = "pip install mkdocs-material && mkdocs build"
+  command = "pip install mkdocs-shadcn && mkdocs build"
   publish = "site"
 
 [[redirects]]
