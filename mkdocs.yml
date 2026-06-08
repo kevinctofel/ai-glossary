@@ -1,0 +1,49 @@
+site_name: AI Glossary
+site_description: Plain-English explanations of AI terms, concepts, and technologies
+site_url: https://kctofel.github.io/ai-glossary/
+repo_url: https://github.com/kctofel/ai-glossary/
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Tier 1 — Foundational:
+      - What is AI?: tier1/what-is-ai.md
+      - Machine Learning: tier1/machine-learning.md
+      - Deep Learning: tier1/deep-learning.md
+      - Tokens & Tokenization: tier1/tokens-tokenization.md
+      - Context Window: tier1/context-window.md
+      - Prompts & Prompt Engineering: tier1/prompts.md
+      - Inference vs. Training: tier1/inference-vs-training.md
+      - Parameters: tier1/parameters.md
+      - Temperature & Sampling: tier1/temperature-sampling.md
+  - Tier 2 — Model Architecture: (pending)
+  - Tier 3 — Applications: (pending)
+  - Tier 4 — Ethics & Safety: (pending)
+  - Tier 5 — Industry & Business: (pending)
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
