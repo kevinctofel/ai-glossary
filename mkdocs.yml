@@ -5,18 +5,7 @@ repo_url: https://github.com/kctofel/ai-glossary/
 edit_uri: edit/main/docs/
 
 theme:
-  name: material
-  palette:
-    primary: indigo
-    accent: amber
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - search.highlight
-    - content.code.copy
-    - toc.integrate
-  icon:
-    repo: fontawesome/brands/github
+  name: shadcn
 
 nav:
   - Home: index.md
